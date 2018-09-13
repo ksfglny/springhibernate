@@ -19,6 +19,8 @@ public class StudentDao {
 
     public static void main(String[] args) {
         StudentDao studentDao = new StudentDao();
+
+        System.out.println("helllo");
         studentDao.get(1);
     }
 
