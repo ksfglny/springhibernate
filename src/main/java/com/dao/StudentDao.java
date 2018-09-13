@@ -21,6 +21,7 @@ public class StudentDao {
         StudentDao studentDao = new StudentDao();
 
         System.out.println("helllo");
+        System.out.println("hehe");
         studentDao.get(1);
     }
 
